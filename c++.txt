@@ -1,0 +1,4 @@
+Early Binding and Late binding
+The compiler performs a process called binding when an object is assigned to an object variable. The early binding (static binding) refers to compile time binding and late binding (dynamic binding) refers to runtime binding.
+Early Binding (Static binding)
+When perform Early Binding, an object is assigned to a variable declared to be of a specific object type. Early binding objects are basically a strong type objects or static type objects. While Early Binding, methods, functions and properties which are detected and checked during compile time and perform other optimizations before an application executes. The biggest advantage of using early binding is for performance and ease of development.
